@@ -63,7 +63,7 @@ export default function App() {
         <table>
           <thead>
             <tr>
-              <th>Vowels Frequency</th>
+              <th>-----Vowels Frequency-----</th>
               <th>Names</th>
             </tr>
           </thead>
