@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button,
+label,
+input {
+  margin-right: 1rem;
+  padding: 1rem;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.table-wrap {
+  max-width: 800px;
+  margin: 50px auto;
+  overflow-x: auto;
+  padding: 0px 16px;
+}
+table,
+td,
+th {
+  border: 1px solid grey;
+  text-align: left;
+  white-space: nowrap;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  padding: 15px;
+}
+table tbody tr:nth-child(odd) {
+  background: #e2e2e2;
+}
+h1 {
+  margin-bottom: 1rem;
+}
