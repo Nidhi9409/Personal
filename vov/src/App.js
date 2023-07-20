@@ -64,7 +64,7 @@ export default function App() {
           <thead>
             <tr>
               <th>-----Vowels Frequency-----</th>
-              <th>Names</th>
+              <th>---Names---</th>
             </tr>
           </thead>
           <tbody>
